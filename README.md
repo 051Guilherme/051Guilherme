@@ -1,6 +1,6 @@
 👨🏻‍💻 Guilherme Pereira
 
-**Olá!** Me chamo **Guilherme Pereira**, tenho 21 anos e sou de **Sapucaia do Sul, Rio Grande do Sul** 🇧🇷.
+**Olá!** **Guilherme Pereira**, tenho 21 anos e sou de **Sapucaia do Sul, Rio Grande do Sul** 🇧🇷.
 
 Concluí o Ensino Médio no **SESI** com curso profissionalizante em **Desenho Mecânico com ênfase em CAD**. Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAC RS**.
 
