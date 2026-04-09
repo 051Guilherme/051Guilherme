@@ -6,18 +6,6 @@ Concluí o Ensino Médio no **SESI** com curso profissionalizante em **Desenho M
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=051guilherme&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" alt="GitHub Stats"/>
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=051guilherme&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br>
-
----
-
 ### 🛠️ Tecnologias que estou estudando
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript
