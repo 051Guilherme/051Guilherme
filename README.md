@@ -18,7 +18,7 @@ Concluí o Ensino Médio no **SESI** com curso profissionalizante em **Desenho M
 
 - **LinkedIn**: [051Guilherme](https://www.linkedin.com/in/051guilherme/) 
 - **Email**: guilherme.pereirasci@gmail.com
-- **GitHub de aulas**: [051Guilherme](https://www.github.com/051Guigao)
+- **GitHub de aulas**: [051Guigao](https://www.github.com/051Guigao)
 
 ---
 
