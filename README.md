@@ -7,7 +7,6 @@
   </a>
 </div>
 
-> Se a linha de texto digitando acima não aparecer, é instabilidade do serviço externo — recarregue a página do GitHub depois de alguns minutos.
 
 <br>
 
@@ -56,14 +55,6 @@ Olá! Me chamo **Guilherme Pereira**, tenho **22 anos** e sou de **Sapucaia do S
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=051Guilherme&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak" />
 </div>
-
----
-
-## 📈 Gráfico de atividade
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=051Guilherme&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-
-> ⚠️ **Sobre os cartões acima**: eles vêm de instâncias públicas e gratuitas (github-readme-stats, streak-stats, activity-graph) que às vezes ficam fora do ar ou atingem limite de requisições da API do GitHub. Se aparecerem quebrados, tente de novo mais tarde. Se continuar quebrado por dias, a solução definitiva é fazer o [deploy da sua própria instância](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) no Vercel (gratuito, 5 minutos) e trocar a URL pela sua.
 
 ---
 
