@@ -1,5 +1,4 @@
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Guilherme%20Pereira&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Frontend%20%26%20Backend&descAlignY=58&descSize=18" alt="Header" />
+<h1 align="center">👋 Guilherme Pereira</h1>
 
 <!-- TEXTO DIGITANDO -->
 <div align="center">
@@ -7,6 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Guilherme+%F0%9F%91%8B;22+anos+%7C+Sapucaia+do+Sul%2C+RS+%F0%9F%87%A7%F0%9F%87%B7;Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
+
+> Se a linha de texto digitando acima não aparecer, é instabilidade do serviço externo — recarregue a página do GitHub depois de alguns minutos.
 
 <br>
 
@@ -61,6 +62,8 @@ Olá! Me chamo **Guilherme Pereira**, tenho **22 anos** e sou de **Sapucaia do S
 ## 📈 Gráfico de atividade
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=051Guilherme&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+
+> ⚠️ **Sobre os cartões acima**: eles vêm de instâncias públicas e gratuitas (github-readme-stats, streak-stats, activity-graph) que às vezes ficam fora do ar ou atingem limite de requisições da API do GitHub. Se aparecerem quebrados, tente de novo mais tarde. Se continuar quebrado por dias, a solução definitiva é fazer o [deploy da sua própria instância](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) no Vercel (gratuito, 5 minutos) e trocar a URL pela sua.
 
 ---
 
